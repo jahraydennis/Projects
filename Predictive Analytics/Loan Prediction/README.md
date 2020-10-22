@@ -1,4 +1,4 @@
-# Loan_Prediction
+# Loan_Approval_Prediction
 Predict if a loan will get approved or not.
 
 
@@ -6,7 +6,12 @@ Loan prediction is a very common real - life problem that each retail bank faces
 If done correctly,it can save a lot of man hours at the end of a retail bank.
 
 # Problem Statement
-Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customers first apply for a home loan after that company validates the customer eligibility for loan. The company wants to automate the loan eligibility process (real time) based on customer details provided while filling the online application form. 
+
+## About Company
+Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customers first apply for a home loan after that company validates the customer eligibility for loan.
+
+## Problem
+The company wants to automate the loan eligibility process (real time) based on customer details provided while filling the online application form. 
 
 These details are;
 **Gender
